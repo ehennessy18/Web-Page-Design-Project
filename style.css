@@ -1,0 +1,93 @@
+body {
+background-color: #ffffcc;
+color: #006666;
+}
+p.first {
+width: 105%;
+color: #006666;
+font-family: "Comic Sans MS";
+font-size: 45px;
+text-align: center; 
+}
+p.second {
+width: 100%;
+color: #0000cc;
+font-family: "Comic Sans MS";
+font-size: 40px;
+text-align: left;
+}
+p.third {
+width: 60%;
+color: #6666ff;
+font-family: "Comic Sans MS";
+font-size: 15px;
+text-align: left;
+}
+p.fourth {
+width: 90%;
+color:  #0000cc;
+font-family: "Comic Sans MS";
+font-size: 30px;
+text-align: left;
+}
+p.fifth {
+width: 100%;
+color: #e60000;
+font-family: "Comic Sans MS";
+font-size: 40px;
+text-align: left;
+}
+p.sixth {
+width: 60%;
+color: #ff4d4d;
+font-family: "Comic Sans MS";
+font-size: 15px;
+text-align: left;
+}
+p.seventh {
+width: 90%;
+color: #e60000;
+font-family: "Comic Sans MS";
+font-size: 30px;
+text-align: left;
+}
+p.eighth {
+width: 30%
+color:  #006666;
+font-family: "Comic Sans MS";
+font-size: 15px;
+text-align: left;
+}
+p.ninth {
+width: 90%;
+color:  #0000cc;
+font-family: "Comic Sans MS";
+font-size: 30px;
+text-align: left;
+}
+p.tenth {
+width: 60%;
+color: #6666ff;
+font-family: "Comic Sans MS";
+font-size: 15px;
+text-align: left;
+}
+p.eleventh {
+width: 90%;
+color: #e60000;
+font-family: "Comic Sans MS";
+font-size: 30px;
+text-align: left;
+}
+p.twelfth {
+width: 60%;
+color: #ff4d4d;
+font-family: "Comic Sans MS";
+font-size: 15px;
+text-align: left;
+}
+
+
+
+
+
